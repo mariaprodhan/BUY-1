@@ -1,0 +1,326 @@
+@media(max-width:575px){
+    #header {
+        font-size: 4px;
+      }
+      .header-left a{
+        font-size: 4px;
+      }
+      .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+      }
+      .menu-bg ul li a{
+        font-size: 5px;
+        padding: 0 5px;
+      }
+      .navbar-nav{
+        flex-direction: row;
+      }
+      .menu-bg img{
+        width: 40%;
+      }
+      .menu-bg i{
+        font-size: 10px;
+      }
+      .navbar-toggler{
+        border: none;
+      }
+      .nev-icon i{
+        font-size: 5px;
+      }
+      .nev-icon p{
+        font-size: 8px;
+      }
+      .nev-iconi{
+        margin: 5px 10px 0 0;
+    }
+    .menu-bg ul li a::after{
+      width: 10px !important;
+      left: 5px !important;
+    }
+    .menu-bg ul li a::before{
+      width: 5px !important;
+      left: 5px !important;
+      top: 120%;
+    }
+    .nev-icon {
+        margin-top: -20px;
+    }
+    .nev-icon2{
+        margin-right: 10px !important;
+    }
+    .about-text{
+        text-align: center;
+        justify-content: center;
+    }
+    .about-text h3{
+        font-size: 10px;
+        margin-top: 5px;
+    }
+    .about-text span{
+        font-size: 12px !important;
+        margin-top: 10px;
+    }
+    .about-text h5{
+        font-size: 8px;
+    }
+    .about-text p{
+        font-size: 5px !important;
+    }
+    .table-right{
+        margin-top: 40px;
+    }
+    .pathner-main1{
+        margin-left: 80px;
+    }
+    .pathner-main2{
+        margin-right: 80px;
+    }
+    .pathner-main{
+        padding-bottom: 20px !important;
+    }
+    .footer-text{
+        margin-bottom: 40px;
+        padding-top: 10px !important;
+    }
+    .contact-main h4{
+        padding-bottom: 10px !important;
+    }
+    .account-main h4{
+        padding-bottom: 10px !important;
+    }
+    .footer-right h4{
+        padding-bottom: 10px !important;
+    }
+    .copy-text1{
+        text-align: center !important;
+    }
+}
+@media(min-width:576px) and  (max-width:767px){
+      .header-left{
+        margin-right: 30px !important;
+      }
+      .header-left a{
+        font-size: 10px;
+      }
+      .header-right{
+        margin-left: 50px !important;
+      }
+      .header-right a{
+        font-size: 10px;
+        
+      }
+      .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+      }
+      .menu-bg ul li a{
+        font-size: 10px;
+        padding: 0 5px;
+      }
+      .navbar-nav{
+        flex-direction: row;
+      }
+      .menu-bg img{
+        width: 80%;
+      }
+      .menu-bg i{
+        font-size: 10px;
+      }
+      .nev-icon i{
+        font-size: 10px;
+      }
+      .nev-icon p{
+        font-size: 13px;
+      }
+      .nev-iconi{
+        margin: 5px 10px 0 0;
+    }
+    .menu-bg ul li a::after{
+      width: 10px !important;
+      left: 5px !important;
+    }
+    .menu-bg ul li a::before{
+      width: 5px !important;
+      left: 5px !important;
+      top: 120%;
+    }
+    .navbar-toggler i{
+        font-size: 20px !important;
+    }
+    .nev-icon{
+        margin-top: -22px;
+        margin-left: 350px !important;
+    }
+    .nev-icon2{
+        margin-right: 10px !important;
+    }
+    .about-text{
+        text-align: center;
+        justify-content: center;
+    }
+    .about-text h3{
+        font-size: 15px;
+        margin-top: 5px;
+    }
+    .about-text span{
+        font-size: 18px !important;
+        margin-top: 12px;
+    }
+    .about-text h5{
+        font-size: 15px;
+    }
+    .about-text p{
+        font-size: 12px !important;
+    }
+    .table-right{
+        margin-top: 40px;
+    }
+    .pathner-main1{
+        margin-left: 90px;
+    }
+    .pathner-main2{
+        margin-right: 90px;
+    }
+    .pathner-main{
+        padding-bottom: 20px !important;
+    }
+    .footer-text{
+        padding-top: 10px !important;
+    }
+    .footer-text{
+        margin-bottom: 40px;
+    }
+    .contact-main h4{
+        padding-bottom: 10px !important;
+    }
+    .account-main h4{
+        padding-bottom: 10px !important;
+    }
+    .footer-right h4{
+        padding-bottom: 10px !important;
+    }
+    .copy-text1{
+        text-align: center !important;
+    }
+    #footer{
+        text-align: center;
+        justify-content: center;
+    }
+    .contact-icon{
+        text-align: center;
+        justify-content: center;
+    }
+    .email{
+        text-align: center;
+        justify-content: center;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .header-left{
+        margin-right: 30px !important;
+      }
+      .header-left a{
+        font-size: 10px;
+      }
+      .header-right{
+        margin-left: 50px !important;
+      }
+      .header-right a{
+        font-size: 10px;
+        
+      }
+      .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+      }
+      .menu-bg ul li a{
+        font-size: 10px;
+        padding: 10px 5px;
+      }
+      .menu-bg img{
+        width: 80%;
+      }
+      .menu-bg i{
+        font-size: 10px;
+      }
+      .nev-icon i{
+        font-size: 10px;
+      }
+      .nev-icon p{
+        font-size: 13px;
+      }
+      .nev-iconi{
+        margin: 5px 10px 0 0;
+    }
+    .menu-bg ul li a::after{
+      width: 10px !important;
+      left: 5px !important;
+    }
+    .menu-bg ul li a::before{
+      width: 5px !important;
+      left: 5px !important;
+      top: 120%;
+    }
+    .navbar-toggler i{
+        font-size: 20px !important;
+    }
+    .nev-icon{
+        margin-left: 5px !important;
+    }
+    .nev-icon2{
+        margin-right: 10px !important;
+    }
+    .table-right{
+        margin-top: 60px;
+    }
+    .pathner-main1{
+        padding: 0 200px;
+    }
+    .pathner-main{
+        padding-bottom: 20px !important;
+    }
+    .footer-text{
+        margin-bottom: 40px;
+        padding-top: 10px !important;
+    }
+    .contact-main h4{
+        padding-bottom: 10px !important;
+    }
+    .account-main h4{
+        padding-bottom: 10px !important;
+    }
+    .footer-right h4{
+        padding-bottom: 10px !important;
+    }
+    .account-head{
+        margin-top: 40px;
+    }
+    .footer-right{
+        margin-top: 40px;
+    }
+    .copy-text1{
+        text-align: center !important;
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+    .about-text h3{
+        font-size: 25px;
+        margin-top: 5px;
+    }
+    .about-text span{
+        font-size: 18px !important;
+        margin-top: 14px;
+    }
+    .about-text h5{
+        font-size: 18px;
+        margin-top: 4px;
+    }
+    .about-text p{
+        font-size: 12px !important;
+        margin-top: 4px;
+    }
+}
+@media(min-width:1200px) and (max-width:1399){
+
+}
+@media(min-width:1400px){
+
+}
